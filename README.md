@@ -7,7 +7,7 @@
 - 📫 How to reach me: lucas.gonthier@icloud.com
 - 🥅 My goals for 2021:  
   - master in depth the theory (math :books:) and practice (with python :snake: and C++) of many machine learning (and deep learning) models and techniques.
-  - Moving to Canada to do a dual degree in Data Science and Artificial Intelligence.
+  - :snowflake: Moving to Canada to pursue a master's degree in Data Science and Artificial Intelligence (In addition to the one I'm already pursuing).
          
 
 - :metal: You can find me on: [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4) - [instagram](https://www.instagram.com/lucas.gonthierr/)
