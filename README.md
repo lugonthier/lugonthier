@@ -10,8 +10,8 @@
   - :snowflake: Moving to Canada to pursue a master's degree in Data Science and Artificial Intelligence (In addition to the one I'm already pursuing).
          
 
-- :metal: You can find me on: [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4) - [instagram](https://www.instagram.com/lucas.gonthierr/)
-- ⚡ Fun fact: I like rugby :rugby_football: and Tarantino's movies :cinema:
+- :metal: You can find me on : [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4) - [instagram](https://www.instagram.com/lucas.gonthierr/)
+- ⚡ Fun fact : I like rugby :rugby_football: and Tarantino's movies :cinema:
 
 <!---
 lugonthier/lugonthier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
