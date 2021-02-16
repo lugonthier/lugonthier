@@ -6,7 +6,7 @@
 - :chart_with_upwards_trend:  I’m looking for an internship in data science during the 2021 summer.
 - 📫 How to reach me: lucas.gonthier@icloud.com
 - 🥅 My goals for 2021:  
-  - master in depth the theory (math :books:) and practice (with python :snake: and C++) of many machine learning (and deep learning) models and techniques.
+  - :fire: master in depth the theory (math :books:) and practice (with python :snake: and C++) of many machine learning (and deep learning) models and techniques.
   - :snowflake: Moving to Canada to pursue a master's degree in Data Science and Artificial Intelligence (In addition to the one I'm already pursuing).
          
 
