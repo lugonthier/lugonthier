@@ -1,12 +1,13 @@
 # Hi there, I’m Lucas 👋 #
-
-### 🌱 I’m currently a 4th-year engineering student in Computer Science & Management at [Polytech Montpellier](https://www.polytech.umontpellier.fr/english/), France. ###
+### 🌱 I'm in my last year of master a in Artificial Intelligence & Data Science at [Sherbrooke University](https://www.usherbrooke.ca), Canada.  ###
+### 🌱 I’m also a 5th-year engineering student in Computer Science & Management at [Polytech Montpellier](https://www.polytech.umontpellier.fr/english/), France. ###
 
 - 👀 I’m interested in Data Science, in particular Machine Learning & MLops.
 - 📫 How to reach me: lucas.gonthier@icloud.com
 - 🥅 My goals for 2021 :  
-  - :fire: master in depth the theory (math :books:) and practice (with python :snake: and C++) of many machine learning (and deep learning) models and techniques.
-  - :snowflake: Moving to Canada to pursue a master's degree in Data Science and Artificial Intelligence (In addition to the one I'm already pursuing).
+  - :fire: master in depth the theory (math :books:) and practice (with python :snake:) of many machine learning (and deep learning) models and techniques.
+  - I'm also interested in Data Engineering, especially in Scala.
+
          
 
 - :metal: You can find me on : [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4) - [instagram](https://www.instagram.com/lucas.gonthierr/)
