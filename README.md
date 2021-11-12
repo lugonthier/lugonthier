@@ -5,7 +5,7 @@
 - 👀 I’m interested in Data Science, in particular Machine Learning & MLops.
 - 📫 How to reach me: lucas.gonthier@icloud.com
 - 🥅 My goals for 2021 :  
-  - :fire: master in depth the theory (math :books:) and practice (with python :snake:) of many machine learning (and deep learning) models and techniques.
+  - :fire: master in depth the theory (math :books:) and practice (with python :snake:) of many machine learning (and deep learning) algorithms and techniques.
   - I'm also interested in Data Engineering, especially in Scala.
 
          
