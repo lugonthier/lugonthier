@@ -1,6 +1,7 @@
 # Hi there, I’m Lucas 👋 #
-### 🌱 I'm in my last year of a master in Artificial Intelligence & Data Science at [Sherbrooke University](https://www.usherbrooke.ca), Canada.  ###
-### 🌱 I’m also a 5th-year engineering student in Computer Science & Management at [Polytech Montpellier](https://www.polytech.umontpellier.fr/english/), France. ###
+### :computer: Data Scientist Intern at [Decathlon Canada](https://www.decathlon.ca/en/), Montreal.
+### 🌱 Last year of a master in Artificial Intelligence & Data Science at [Sherbrooke University](https://www.usherbrooke.ca), Canada.  ###
+### 🌱 5th-year engineering student in Computer Science & Management at [Polytech Montpellier](https://www.polytech.umontpellier.fr/english/), France. ###
 
 - 👀 My fields of study : Machine Learning & MLops.
 - 📫 How to reach me: lucas.gonthier@icloud.com
