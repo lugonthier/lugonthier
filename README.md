@@ -10,13 +10,13 @@
 My most used tech stack :
   - :gear: Data Engineering : Airbyte, Airflow, DBT, GCP.
   - :fire: Machine Learning & Deep Learning : Scikit-Learn, Xgboost Tensorflow/Keras.
-  - :link: MLops : Kubernetes, KubeFlow, GCP.\n
+  - :link: MLops : Kubernetes, KubeFlow, GCP.
   
 
 
 
-- :metal: You can find me on : [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
-- ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
+:metal: You can find me on : [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
+⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
 
 <!---
 lugonthier/lugonthier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
