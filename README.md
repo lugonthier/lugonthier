@@ -7,9 +7,11 @@
   - :man_student: Dipl. Ing. (~ M.Sc.) in Computer Science & Management. ###
 
 ### My most used tech stack :
+  - Languages : Python, SQL, NoSQL, Java, C++.
   - :gear: Data Engineering : Airbyte, Airflow, DBT, GCP.
   - :fire: Machine Learning & Deep Learning : Scikit-Learn, Xgboost Tensorflow/Keras.
   - :link: MLops : Kubernetes, KubeFlow, GCP.
+  - Others : Terraform.
   
 
 
