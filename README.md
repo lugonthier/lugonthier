@@ -10,7 +10,7 @@
 My most used tech stack :
   - :gear: Data Engineering : Airbyte, Airflow, DBT, GCP.
   - :fire: Machine Learning & Deep Learning : Scikit-Learn, Xgboost Tensorflow/Keras.
-  - :link: MLops : Kubernetes, KubeFlow, GCP.
+  - :link: MLops : Kubernetes, KubeFlow, GCP.\n
   
 
 
