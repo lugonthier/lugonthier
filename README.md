@@ -1,5 +1,5 @@
 # Hi there, I’m Lucas 👋 #
-### My current position
+### My current position :
 :computer: Machine Learning Engineer at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
 
 ### My most relevant degrees :
