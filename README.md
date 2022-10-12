@@ -13,6 +13,8 @@ My most used tech stack :
   - :link: MLops : Kubernetes, KubeFlow, GCP.
   
 
+
+
 - :metal: You can find me on : [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
 - ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
 
