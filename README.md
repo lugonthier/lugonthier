@@ -3,7 +3,7 @@
 :computer: Machine Learning Engineer at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
 
 ### My most relevant degrees :
-  - :man_student: M.Sc. in Artificial Intelligence & Data Science. 
+  - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
   - :man_student: Dipl. Ing. (~ M.Sc.) in Computer Science & Management. 
 
 ### My main tech stack :
@@ -16,7 +16,7 @@
 
 
 
-:metal: Where you can find me : by email at [lucas.gonthier@icloud.com](lucas.gonthier@icloud.com), [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
+:metal: Where you can find me : by email at [lucas.gonthier@icloud.com](lucas.gonthier@icloud.com) or by social media [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
 
 
 ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
