@@ -9,7 +9,7 @@
 ### My most used tech stack :
   - **Languages** : Python, SQL, NoSQL, Java, C++.
   - :gear: **Data Engineering** : Airbyte, Airflow, DBT.
-  - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost Tensorflow/Keras.
+  - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras.
   - :link: **MLops** : Kubernetes, KubeFlow.
   - **Others** : Terraform, GCP.
   
