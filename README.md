@@ -17,6 +17,8 @@
 
 
 :metal: Where you can find me : by email at [lucas.gonthier@icloud.com](lucas.gonthier@icloud.com), [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
+
+
 ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
 
 <!---
