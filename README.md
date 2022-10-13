@@ -6,7 +6,7 @@
   - :man_student: M.Sc. in Artificial Intelligence & Data Science. 
   - :man_student: Dipl. Ing. (~ M.Sc.) in Computer Science & Management. 
 
-### My most used tech stack :
+### My main tech stack :
   - **Languages** : Python, SQL, NoSQL, Java, C++.
   - :gear: **Data Engineering** : Airbyte, Airflow, DBT.
   - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras.
