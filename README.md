@@ -1,6 +1,7 @@
 # Hi there, I’m Lucas 👋 #
-### My current position :
-:computer: Full Stack Data Scientist at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
+I'm a Full Stack Data Scientist which means I'm capable of fulfilling the role of a software engineer, data engineer, data scientist, and machine learning engineer. In other words, I'm able to manage the entire lifecycle of a data science project.
+
+I am currently working at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
 
 ### My most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
@@ -8,15 +9,16 @@
 
 ### My main tech stack :
   - **Languages** : Python, SQL, NoSQL, Java, C++.
-  - :gear: **Data Engineering** : Airbyte, Airflow, DBT.
+  - :gear: **Data Engineering** : Airbyte, Airflow, DBT, Apache Beam (Dataflow).
   - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras.
-  - :link: **MLops** : Kubernetes, KubeFlow.
-  - **Others** : Terraform, GCP.
+  - :link: **MLops** : Vertex AI, KubeFlow, MLflow.
+  - :desktop_computer: **Web Development** : FastAPI, Streamlit.
+  - :spider_web: **infra** : Kubernetes, GCP, Terraform.
   
 
 
 
-:metal: Where you can find me : by email at [lucas.gonthier@icloud.com](lucas.gonthier@icloud.com) or by social media [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier) - [twitter](https://twitter.com/GonthierLucas4)
+:metal: Where you can find me : by email at [lucas.gonthier@icloud.com](lucas.gonthier@icloud.com) or by social media [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier)
 
 
 ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
