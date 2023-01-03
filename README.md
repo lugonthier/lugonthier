@@ -1,6 +1,6 @@
 # Hi there, I’m Lucas 👋 #
 ### My current position :
-:computer: Machine Learning Engineer at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
+:computer: Full Stack Data Scientist at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
 
 ### My most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
