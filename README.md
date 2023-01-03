@@ -1,4 +1,5 @@
 # Hi there, I’m Lucas 👋 #
+
 I'm a Full Stack Data Scientist which means I'm capable of fulfilling the role of a software engineer, data engineer, data scientist, and machine learning engineer. In other words, I'm able to manage the entire lifecycle of a data science project.
 
 I am currently working at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
