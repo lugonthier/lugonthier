@@ -5,7 +5,7 @@ I am currently working at [Ursa Marketing](https://ursa.marketing/en/), Montreal
 
 ### My most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
-  - :man_student: Dipl. Ing. (~ M.Sc.) in Computer Science & Management. 
+  - :man_student: Dipl. Ing. (~ M. Sc.) in Computer Science & Management. 
 
 ### My main tech stack :
   - **Languages** : Python, SQL, NoSQL, Java, C++.
