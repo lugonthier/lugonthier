@@ -10,11 +10,11 @@ I am currently working at [Ursa Marketing](https://ursa.marketing/en/), Montreal
 
 ### My main tech stack :
   - **Languages** : Python, SQL, NoSQL, Java, C++.
-  - :gear: **Data Engineering** : Airbyte, Airflow, DBT, Apache Beam (Dataflow).
+  - :gear: **Data Engineering** : Airbyte, Apache Airflow, Apache Beam (Dataflow), Great Expectations.
   - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras.
-  - :link: **MLops** : Vertex AI, KubeFlow, MLflow.
+  - :link: **MLops** : Vertex AI, KubeFlow, MLRun, MLflow.
   - :desktop_computer: **Web Development** : FastAPI, Streamlit.
-  - :spider_web: **infra** : Kubernetes, GCP, Terraform.
+  - :spider_web: **Infra** : Kubernetes, Google Cloud Platform (GCP), Terraform.
   
 
 
