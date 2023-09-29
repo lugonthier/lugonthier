@@ -1,8 +1,6 @@
 # Hi there, I’m Lucas 👋 #
 
-I'm a Full Stack Data Scientist which means I'm capable of fulfilling the role of a software engineer, data engineer, data scientist, and machine learning engineer. In other words, I'm able to manage the entire lifecycle of a data science project.
-
-I am currently working at [Ursa Marketing](https://ursa.marketing/en/), Montreal.
+I'm currently working as Machine Learning Engineer at [Waalaxy](https://www.waalaxy.com/), France.
 
 ### My most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
@@ -12,7 +10,7 @@ I am currently working at [Ursa Marketing](https://ursa.marketing/en/), Montreal
   - **Languages** : Python, SQL, NoSQL, Java, C++.
   - :gear: **Data Engineering** : Airbyte, Apache Airflow, Apache Beam (Dataflow), Great Expectations.
   - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras.
-  - :link: **MLops** : Vertex AI, KubeFlow, MLRun, MLflow.
+  - :link: **MLops** : Vertex AI, KubeFlow, BentoML, MLflow.
   - :desktop_computer: **Web Development** : FastAPI, Streamlit.
   - :spider_web: **Infra** : Kubernetes, Google Cloud Platform (GCP), Terraform.
   
