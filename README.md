@@ -9,7 +9,7 @@ I'm currently working as Machine Learning Engineer at [Waalaxy](https://www.waal
 ### My main tech stack :
   - **Languages** : Python, SQL, NoSQL, Java, C++.
   - :gear: **Data Engineering** : Airbyte, Apache Airflow, Apache Beam (Dataflow), Great Expectations.
-  - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras.
+  - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras, Hugging Face, Optuna.
   - :link: **MLops** : Vertex AI, KubeFlow, BentoML, MLflow.
   - :desktop_computer: **Web Development** : FastAPI, Streamlit.
   - :spider_web: **Infra** : Kubernetes, Google Cloud Platform (GCP), Terraform.
