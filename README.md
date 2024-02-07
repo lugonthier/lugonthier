@@ -17,7 +17,7 @@ I'm currently working as Machine Learning Engineer at [Waalaxy](https://www.waal
 
 
 
-:metal: Where you can find me : by email at [lucas.gonthier@icloud.com](lucas.gonthier@icloud.com) or by social media [linkedin](https://www.linkedin.com/in/lucas-gonthier-101/) - [medium](https://medium.com/@lucas.gonthier)
+:metal: Where you can find me : On Twitter at [@lucasgonthierr](https://twitter.com/lucasgonthierr) - On Threads at [@lucas.gonthierr](https://www.threads.net/@lucas.gonthierr) - On LinkedIn at [@lucas-gonthier-101](https://www.linkedin.com/in/lucas-gonthier-101/) - On Medium at [@lucas.gonthier](https://medium.com/@lucas.gonthier)
 
 
 ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
