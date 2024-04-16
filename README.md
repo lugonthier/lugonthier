@@ -1,19 +1,19 @@
 # Hi there, I’m Lucas 👋 #
 
-I'm currently working as Machine Learning Engineer at [Waalaxy](https://www.waalaxy.com/), France.
+I'm currently working as Machine Learning & MLOps Engineer at [Waalaxy](https://www.waalaxy.com/), France.
 
 ### My most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
   - :man_student: Dipl. Ing. (~ M. Sc.) in Computer Science & Management. 
 
 ### My main tech stack :
-  - **Languages** : Python, SQL, NoSQL, Java, C++.
-  - :gear: **Data Engineering** : Airbyte, Apache Airflow, Apache Beam (Dataflow), Great Expectations.
-  - :fire: **Machine Learning & Deep Learning** : Scikit-Learn, Xgboost, Tensorflow/Keras, Hugging Face, Optuna.
-  - :link: **MLops Platform** : Vertex AI, KubeFlow, MLflow.
-  - :desktop_computer: **ML Serving** : FastAPI, BentoML, KServe, LangServe.
-  - 👅 **LLM**: LangChain.
-  - :spider_web: **Infra** : Kubernetes, Google Cloud Platform (GCP), Terraform.
+  - 🚢 **Data Processing**: Apache Beam.
+  - 📊 **Data & ML Validation**: Evidently, Pandera.
+  - :fire: **Machine Learning & Deep Learning**: Scikit-Learn, XGBoost, Tensorflow/Keras, Jax, Transformers (HF), LangChain, Optuna.
+  - 🚦 **Orchestrators**: Kubeflow Pipelines, Apache Airflow.
+  - 🚀 **ML Serving**: FastAPI, BentoML, KServe, LangServe.
+  - :link: **MLops Platform**: Vertex AI, KubeFlow, MLflow.
+  - :spider_web: **Infrastructure**: Kubernetes, Google Cloud Platform (GCP), Terraform.
   
 
 
