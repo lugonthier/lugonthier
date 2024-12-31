@@ -11,7 +11,7 @@ I'm currently working as Machine Learning & MLOps Engineer at [Waalaxy](https://
   - 📊 **Data & ML Validation**: Evidently, Pandera.
   - :fire: **Machine Learning & Deep Learning**: Scikit-Learn, XGBoost, Tensorflow/Keras, Jax, Transformers (HF), LangChain, Optuna.
   - 🚦 **Orchestrators**: Kubeflow Pipelines, Apache Airflow.
-  - 🚀 **ML Serving**: FastAPI, BentoML, KServe, LangServe.
+  - 🚀 **ML Serving**: FastAPI, KServe.
   - :link: **MLops Platform**: Vertex AI, KubeFlow, MLflow.
   - :spider_web: **Infrastructure**: Kubernetes, Google Cloud Platform (GCP), Terraform.
   
