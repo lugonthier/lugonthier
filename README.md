@@ -1,24 +1,28 @@
 # Hi there, I’m Lucas 👋 #
 
-I'm currently working as Machine Learning & MLOps Engineer at [Waalaxy](https://www.waalaxy.com/), France.
+Working as ML & MLOps Engineer at [Waalaxy](https://www.waalaxy.com/).
+Building [Kawaak](https://kawaak.com/)
 
-### My most relevant degrees :
+### Most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
   - :man_student: Dipl. Ing. (~ M. Sc.) in Computer Science & Management. 
 
-### My main tech stack :
-  - 🚢 **Data Processing**: Apache Beam.
-  - 📊 **Data & ML Validation**: Evidently, Pandera.
-  - :fire: **Machine Learning & Deep Learning**: Scikit-Learn, XGBoost, Tensorflow/Keras, Jax, Transformers (HF), LangChain, Optuna.
-  - 🚦 **Orchestrators**: Kubeflow Pipelines, Apache Airflow.
-  - 🚀 **ML Serving**: FastAPI, KServe.
-  - :link: **MLops Platform**: Vertex AI, KubeFlow, MLflow.
-  - :spider_web: **Infrastructure**: Kubernetes, Google Cloud Platform (GCP), Terraform.
+### Main tech stack :
+  - 📊 **Data & ML Validation**: Evidently, Pandera
+  - :fire: **ML/DL**: Scikit-Learn, XGBoost, Tensorflow/Keras, Jax, Transformers (HF), Optuna
+  - 🚦 **Orchestration**: Kubeflow Pipelines, Apache Airflow
+  - 🚀 **Serving**: FastAPI, KServe
+  - :link: **MLOps Platform**: Vertex AI, KubeFlow, MLflow
+  - :: **LLM Eng**: Langchain, Langfuse.
+  - :spider_web: **Infrastructure**: Kubernetes, Google Cloud Platform (GCP), Terraform
   
 
 
 
-:metal: Where you can find me : On Twitter at [@lucasgonthierr](https://twitter.com/lucasgonthierr) - On Threads at [@lucas.gonthierr](https://www.threads.net/@lucas.gonthierr) - On LinkedIn at [@lucas-gonthier-101](https://www.linkedin.com/in/lucas-gonthier-101/) - On Medium at [@lucas.gonthier](https://medium.com/@lucas.gonthier)
+:metal: Where you can find me : 
+
+- On LinkedIn at [@lucas-gonthier-101](https://www.linkedin.com/in/lucas-gonthier-101/)
+- On Twitter at [@lucasgonthierr](https://twitter.com/lucasgonthierr)
 
 
 ⚡ Fun fact : I like rugby :rugby_football: and David Fincher's movies :cinema:
