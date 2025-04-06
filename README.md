@@ -1,7 +1,7 @@
 # Hi there, I’m Lucas 👋 #
 
-Working as ML & MLOps Engineer at [Waalaxy](https://www.waalaxy.com/).
-Building [Kawaak](https://kawaak.com/)
+- Working as ML & MLOps Engineer at [Waalaxy](https://www.waalaxy.com/).
+- Building [Kawaak](https://kawaak.com/)
 
 ### Most relevant degrees :
   - :man_student: M. Sc. in Artificial Intelligence & Data Science. 
