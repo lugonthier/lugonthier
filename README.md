@@ -13,7 +13,7 @@ Building [Kawaak](https://kawaak.com/)
   - 🚦 **Orchestration**: Kubeflow Pipelines, Apache Airflow
   - 🚀 **Serving**: FastAPI, KServe
   - :link: **MLOps Platform**: Vertex AI, KubeFlow, MLflow
-  - :: **LLM Eng**: Langchain, Langfuse.
+  - 👅 **LLM Eng**: Langchain, Langfuse.
   - :spider_web: **Infrastructure**: Kubernetes, Google Cloud Platform (GCP), Terraform
   
 
