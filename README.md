@@ -7,13 +7,13 @@
   - :man_student: M. Sc. in Artificial Intelligence & Data Science
   - :man_student: Dipl. Ing. (~ M. Sc.) in Computer Science & Management
 
-### Main tech stack :
+### Main stack :
   - 📊 **Data & ML Validation**: Evidently, Pandera
   - :fire: **ML/DL**: Scikit-Learn, XGBoost, Tensorflow/Keras, Jax, Transformers (HF), Optuna
   - 🚦 **Orchestration**: Kubeflow Pipelines, Apache Airflow
   - 🚀 **Serving**: FastAPI, KServe
   - :link: **MLOps Platform**: Vertex AI, KubeFlow, MLflow
-  - 👅 **LLM Eng**: Langchain, Langfuse.
+  - 👅 **LLM Eng**: Langchain, Langfuse
   - :spider_web: **Infrastructure**: Kubernetes, Google Cloud Platform (GCP), Terraform
 
 <!---
