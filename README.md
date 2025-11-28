@@ -109,9 +109,9 @@ Building AI is a maturity curve. My engineering approach follows this progressio
       <h4 align="center">Cloud & Infrastructure</h4>
     </td>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Infra-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Infra-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white"></a>
     </td>
