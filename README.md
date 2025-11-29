@@ -8,7 +8,7 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonthier-101/)
   [![Kawaak](https://img.shields.io/badge/Kawaak-Founding%20Engineer-1C2833?style=for-the-badge)](https://kawaak.com/en)
 
 </div>
@@ -130,7 +130,7 @@ Building AI is a maturity curve. My engineering approach follows this progressio
 <br />
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <p>I am active on <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> sharing insights on MLOps, AI Engineering, and the startup journey.<br>Feel free to follow along!</p>
+  <p>I am active on <a href="https://www.linkedin.com/in/lucas-gonthier-101/">LinkedIn</a> sharing insights on MLOps, AI Engineering, and the startup journey.<br>Feel free to follow along!</p>
 </div>
 
 <div align="center">
