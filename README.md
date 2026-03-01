@@ -21,7 +21,7 @@ I started my career building models for **Computer Vision** and **NLP**. However
 
 Today, I specialize in **MLOps** and **AI Engineering**. I bridge the gap between research and production by designing infrastructure that ensures models are not just deployable, but scalable and reliable.
 
-Currently, I am a **Founding Engineer at Kawaak**, where I architect end-to-end AI systems.
+Currently, I am a **Founding Engineer at [Kawaak](https://kawaak.com/en)**, where I architect end-to-end AI systems.
 
 <br />
 
@@ -111,6 +111,7 @@ Building AI is a maturity curve. My engineering approach follows this progressio
     <td>
       <a href="#"><img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Kubernetes-Infra-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Helm-Package%20Manager-0F1689?style=flat-square&logo=helm&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white"></a>
