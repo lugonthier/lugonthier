@@ -3,13 +3,13 @@
   # Hi there, I'm Lucas.
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B52A2A&center=true&vCenter=true&width=500&lines=Founding+Engineer+%40+Kawaak;Building+Scalable+AI+Systems;From+Notebooks+to+Production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B52A2A&center=true&vCenter=true&width=500&lines=ML+Engineer+%40+Nebesta;Building+Scalable+AI+Systems;From+Notebooks+to+Production" alt="Typing SVG" />
   </a>
 
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonthier-101/)
-  [![Kawaak](https://img.shields.io/badge/Kawaak-Founding%20Engineer-1C2833?style=for-the-badge)](https://kawaak.com/en)
+  [![Nebesta](https://img.shields.io/badge/Nebesta-ML%20Engineer-1C2833?style=for-the-badge)](#)
 
 </div>
 
@@ -19,9 +19,11 @@
 
 I started my career building models for **Computer Vision** and **NLP**. However, I quickly realized that achieving high accuracy in a notebook is only a fraction of the solution. To drive real value, I shifted my focus to the engineering challenges surrounding AI.
 
+Previously, I co-founded **[Kawaak](https://kawaak.com/en)** (scaling it to $200k ARR) and **[VersoML](https://versoml.com/)** (an ML Development Platform), where I drove the technical vision from the ground up.
+
 Today, I specialize in **MLOps** and **AI Engineering**. I bridge the gap between research and production by designing infrastructure that ensures models are not just deployable, but scalable and reliable.
 
-Currently, I am a **Founding Engineer at [Kawaak](https://kawaak.com/en)**, where I architect end-to-end AI systems.
+Currently, I am a **Machine Learning Engineer at [Nebesta](https://nebesta.com/)**, where I architect end-to-end AI systems.
 
 <br />
 
