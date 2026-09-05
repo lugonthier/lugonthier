@@ -3,7 +3,7 @@
   # Hi there, I'm Lucas.
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B52A2A&center=true&vCenter=true&width=500&lines=ML+Engineer+%40+Nebesta;Building+Scalable+AI+Systems;From+Notebooks+to+Production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B52A2A&center=true&vCenter=true&width=500&lines=ML+Engineer;Building+Scalable+AI+Systems;From+Notebooks+to+Production" alt="Typing SVG" />
   </a>
 
   <br/>
